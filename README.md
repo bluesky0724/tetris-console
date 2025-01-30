@@ -15,6 +15,11 @@ To run the program with Typescript, use the following command:
 ts-node tetris.ts
 ```
 
+To run test
+```bash
+npm run test
+```
+
 This will read the game data from `games.txt` and write the maximum heights for each game to `output.txt`.
 
 ## Input Format
